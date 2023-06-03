@@ -17,7 +17,7 @@ void displayAllContacts();
 int main() {
     int choice;
     while (true) {
-        cout << "Contact Book" << endl;
+        cout << "Jordans Contact Book" << endl;
         cout << "1. Add Contact" << endl;
         cout << "2. Search Contact" << endl;
         cout << "3. Display All Contacts" << endl;
